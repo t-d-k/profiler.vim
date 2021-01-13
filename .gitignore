@@ -1,0 +1,9 @@
+# ignore vimballs
+*.vba
+*.vmb
+# ignore *.orig files
+*.orig
+# ignore some zip files
+*-*.zip
+*.csv
+test.md
