@@ -31,7 +31,7 @@ After use, don't forget to delete it as the script slows down saving of files
 To interpret the profiling data to troubleshoot your touch typing, see <https://t-d-k.ixese.com/keyboard-profiling-typing>   
 Keyboard profiling is also available on Microsoft Windows in all applications using the [typing utility Apus](https://apus.tdksoft.co.uk). This also performs the calculations above and analysis.
 ## Downloads
-[zip file](vim-profiler.zip) containing profile.vim, README.md and profiling.ods
+[vim-profiler.zip](https://github.com/t-d-k/profiler.vim/files/5809728/vim-profiler.zip) containing profile.vim, README.md and profiling.ods
 
 ©2020 by tdk. GPL License applies.   
 
